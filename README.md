@@ -21,9 +21,6 @@ A mobile developer who focuses on Android, iOS, and Flutter. I live in Bandung, 
 
 ### Keep in touch with me on
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white?link=https://medium.com/@irfanirawansukirman&link=https://medium.com/@irfanirawansukirman)
-![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=flat&logo=twitter&logoColor=white?link=https://twitter.com/i_i_s_92&link=https://twitter.com/i_i_s_92)
-![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=white?link=mailto:bakersbinary@gmail.com&link=mailto:bakersbinary@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram&logoColor=white?link=https://t.me/irfanirawansukirman&link=https://t.me/irfanirawansukirman) 
 
 ### Statistics
 <h1>
