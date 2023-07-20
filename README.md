@@ -31,6 +31,3 @@ A mobile developer who focuses on Android, iOS, and Flutter. I live in Bandung, 
         <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bakersbinary&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&"/><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakersbinary&hide_title=true&layout=compact" />
     </a>
 </h1>
-
-<!-- #### Support on -->
-<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad) -->
